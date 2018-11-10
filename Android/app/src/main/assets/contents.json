@@ -1,0 +1,97 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "2",
+      "name": "Warhammer 40k",
+      "publisher": "a.wild.man",
+      "tray_image_file": "tray_wh40k.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Sticker1.webp"
+        },
+        {
+          "image_file": "Sticker2.webp"
+        },
+        {
+          "image_file": "Sticker4.webp"
+        },
+        {
+          "image_file": "Sticker6.webp"
+        },
+        {
+          "image_file": "Sticker8.webp"
+        },
+        {
+          "image_file": "Sticker9.webp"
+        },
+        {
+          "image_file": "Sticker10.webp"
+        },
+        {
+          "image_file": "Sticker12.webp"
+        },
+        {
+          "image_file": "Sticker13.webp"
+        },
+        {
+          "image_file": "Sticker23.webp"
+        },
+        {
+          "image_file": "Sticker26.webp"
+        },
+        {
+          "image_file": "Sticker3.webp"
+        },
+        {
+          "image_file": "Sticker5.webp"
+        },
+        {
+          "image_file": "Sticker7.webp"
+        },
+        {
+          "image_file": "Sticker11.webp"
+        },
+        {
+          "image_file": "Sticker22.webp"
+        },
+        {
+          "image_file": "Sticker19.webp"
+        },
+        {
+          "image_file": "Sticker21.webp"
+        },
+        {
+          "image_file": "Sticker16.webp"
+        },
+        {
+          "image_file": "Sticker17.webp"
+        },
+        {
+          "image_file": "Sticker18.webp"
+        },
+        {
+          "image_file": "Sticker15.webp"
+        },
+        {
+          "image_file": "Sticker14.webp"
+        },
+        {
+          "image_file": "Sticker20.webp"
+        },
+        {
+          "image_file": "Sticker24.webp"
+        },
+        {
+          "image_file": "Sticker25.webp"
+        }
+
+      ]
+    }
+  ]
+}
